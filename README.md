@@ -33,8 +33,8 @@
 
 ### 2. تحميل المشروع والانتقال للمجلد
 ```bash
-git clone https://github.com/ranaawaad/masra_kids.git
-cd masra_kids
+git clone https://github.com/ranaawaad/masar-kids.git
+cd masar-kids
 ```
 
 ### 3. إنشاء بيئة عمل افتراضية وتفعيلها
