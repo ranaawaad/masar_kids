@@ -7,7 +7,7 @@ CHANNELS = {
             {
                 "name": "منصة مدرسة - Madrasa",
                 "description": "آلاف الفيديوهات التعليمية المتحركة باللغة العربية لشرح مفاهيم العلوم والرياضيات والفيزياء بطريقة قصصية ممتعة مناسبة للأعمار المبكرة.",
-                "url": "https://www.youtube.com/c/Madrasa",
+                "url": "https://www.youtube.com/@Madrasa",
                 "type": "📺 قناة يوتيوب",
                 "tags": ["علوم", "رياضيات", "رسوم متحركة"]
             },
@@ -145,7 +145,7 @@ CHANNELS = {
             {
                 "name": "أكاديمية بناء - Benaa Academy",
                 "description": "دورات ومحتوى مرئي ممتاز لبناء الشخصية القوية، الصدق، إدارة الوقت، والتعامل الذكي مع الأجهزة الرقمية.",
-                "url": "https://www.youtube.com/@BenaaAcademy",
+                "url": "https://www.youtube.com/@Benaaacademy22",
                 "type": "📺 قناة يوتيوب",
                 "tags": ["بناء شخصية", "إدارة وقت"]
             },
@@ -168,7 +168,7 @@ CHANNELS = {
             {
                 "name": "مصطفى سعدي - تعليم الرسم",
                 "description": "دروس خطوة بخطوة لتعليم الرسم والتظليل وتلوين شخصيات الكرتون والمناظر الطبيعية لتنمية الموهبة الفنية.",
-                "url": "https://www.youtube.com/@MostafaSaadi2",
+                "url": "https://www.youtube.com/@mustafasaadi",
                 "type": "📺 قناة يوتيوب",
                 "tags": ["رسم وتلوين", "تنميه مهارات"]
             },
